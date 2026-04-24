@@ -132,3 +132,7 @@ console.log(learningIsFunSentence.indexOf("fun"));
 console.log(learningIsFunSentence.indexOf("learning"));
 
 console.log("I hope you enjoyed learning today.");
+
+
+
+//hi testing git.
